@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "期待雪天"
   avatar           : "/assets/images/0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "写我所想。"
-  location         : "蓝色星球"
+  bio              : "我是「期待雪天」，在这里写我所想，有生活随感、读书记录和技术总结。"
+  location         : "Earth"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
