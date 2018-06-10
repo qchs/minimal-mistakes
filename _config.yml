@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "期待雪天"
   avatar           : "/assets/images/0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "我是「期待雪天」，在这里写我所想，有生活随感、读书记录和技术总结。"
+  bio              : "我是「期待雪天」，在这里写我所思所想。"
   location         : "Earth"
   email            :
   uri              :
