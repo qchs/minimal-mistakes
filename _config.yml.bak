@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN" # "en-US"
-title                    : "ÆÚ´ıÑ©ÌìµÄ²©¿Í"
+title                    : "æœŸå¾…é›ªå¤©çš„åšå®¢"
 title_separator          : "-"
-name                     : "ÆÚ´ıÑ©Ìì"
+name                     : "æœŸå¾…é›ªå¤©"
 description              : "write whatever I think."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "ÆÚ´ıÑ©Ìì"
-  avatar           : "/assets/images/0.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ğ´ÎÒËùÏë¡£"
-  location         : "À¶É«ĞÇÇò"
+  name             : "æœŸå¾…é›ªå¤©"
+  avatar           : "/assets/images/0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "å†™æˆ‘æ‰€æƒ³ã€‚"
+  location         : "è“è‰²æ˜Ÿçƒ"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
