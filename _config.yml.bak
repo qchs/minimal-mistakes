@@ -1,4 +1,5 @@
-# Welcome to Jekyll!
+# 
+#Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -15,7 +16,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"#"en-US"
+locale                   : "zh-CN" # "en-US"
 title                    : "期待雪天的博客"
 title_separator          : "-"
 name                     : "期待雪天"
@@ -100,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "期待雪天"
+  avatar           : "/assets/images/0.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "写我所想。"
+  location         : "蓝色星球"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
