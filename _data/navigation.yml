@@ -1,4 +1,4 @@
-# main links
+﻿# main links
 
 main: 
   - 
@@ -9,7 +9,7 @@ main:
     url: "https://mmistakes.github.io/minimal-mistakes/about/"
   - 
     title: 技术
-    url: /year-archive/
+    url: /docs/quick-start-guide/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
