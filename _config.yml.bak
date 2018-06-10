@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "snow???"
+locale                   : "zh-CN"#"en-US"
+title                    : "期待雪天的博客"
 title_separator          : "-"
 name                     : "try to verify."
 description              : "write whatever I think."
