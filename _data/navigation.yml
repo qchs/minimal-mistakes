@@ -2,14 +2,14 @@
 
 main: 
   - 
-    title: 随笔
+    title: "随笔"
     url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
   - 
-    title: 小说
+    title: "小说"
     url: "https://mmistakes.github.io/minimal-mistakes/about/"
   - 
-    title: 技术
-    url: /docs/_docs/quick-start-guide/
+    title: "技术"
+    url: /docs/quick-start-guide/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
