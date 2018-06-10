@@ -9,7 +9,7 @@ main:
     url: "https://mmistakes.github.io/minimal-mistakes/about/"
   - 
     title: 技术
-    url: /docs/quick-start-guide/
+    url: /docs/_docs/quick-start-guide/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
