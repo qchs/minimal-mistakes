@@ -3,13 +3,13 @@
 main: 
   - 
     title: "随笔"
-    url: /about/
+    url: /think/
   - 
     title: "小说"
-    url: "https://mmistakes.github.io/minimal-mistakes/about/"
+    url: /novel/
   - 
     title: "技术"
-    url: /docs/quick-start-guide/
+    url: "https://mmistakes.github.io/minimal-mistakes/about/"
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
