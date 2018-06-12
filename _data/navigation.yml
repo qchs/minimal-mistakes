@@ -3,7 +3,7 @@
 main: 
   - 
     title: "随笔"
-    url: /docs/quick-start-guide/
+    url: /about/
   - 
     title: "小说"
     url: "https://mmistakes.github.io/minimal-mistakes/about/"
