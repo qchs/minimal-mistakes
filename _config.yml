@@ -262,7 +262,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: posts #所有posts文件夹使用以下设置
     values:
       layout: single
       author_profile: true
