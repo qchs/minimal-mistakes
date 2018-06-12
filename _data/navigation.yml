@@ -9,9 +9,9 @@ main:
     url: /novel/
   - 
     title: "技术"
-    url: "https://mmistakes.github.io/minimal-mistakes/about/"
+    url: /tech/
 
   # - title: "Sample Collections"
-  #   url: /collection-archive/
+  #   url: "https://mmistakes.github.io/minimal-mistakes/about/"
   # - title: "Sitemap"
   #   url: /sitemap/
