@@ -1,7 +1,4 @@
 ---
-layout: homeself
+layout: home
 author_profile: true
 ---
-test
-
-#test
