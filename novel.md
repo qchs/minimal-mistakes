@@ -4,6 +4,6 @@ author_profile: true
 ---
 I have changed a little,can this showing?
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
+{% for post in site.posts %}
+  {% post %}
 {% endfor %}
