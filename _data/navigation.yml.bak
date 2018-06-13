@@ -2,9 +2,6 @@
 
 main: 
   - 
-    title: "文章分类"
-    url: /all/
-  - 
     title: "随笔"
     url: /think/
   - 

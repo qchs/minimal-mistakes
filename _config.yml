@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN" # "en-US"
-title                    : "期待雪天的博客"
+title                    : "期待雪天的博客首页"
 title_separator          : "-"
 name                     : "期待雪天"
 description              : "write whatever I think."
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "期待雪天"
   avatar           : "/assets/images/0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "我是「期待雪天」，在这里写我所思所想。"
+  bio              : "记忆是不可靠的，要留有坚硬的记录。"
   location         : "Earth"
   email            :
   uri              :
