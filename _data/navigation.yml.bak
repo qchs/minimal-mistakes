@@ -4,9 +4,9 @@ main:
   - 
     title: "文章分类"
     url: /all/
-  # - 
-  # title: "随笔"
-  #  url: /think/
+  - 
+    title: "随笔"
+    url: /think/
     
   # - title: "小说"
   #   url: /novel/
