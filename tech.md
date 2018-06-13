@@ -1,5 +1,4 @@
 ---
-title:"所有技术相关文章"
 layout: tag
 permalink: /tags/tech/
 taxonomy: tech # tag name
