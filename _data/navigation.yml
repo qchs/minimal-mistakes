@@ -2,7 +2,7 @@
 main: 
   - 
     title: 文章分类
-    url: /about/
+    url: /cates/
   - 
     title: 随笔
     url: /think/
