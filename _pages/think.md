@@ -1,6 +1,8 @@
-﻿---
+---
 permalink: /think/
 layout: tagthink
+
 author_profile: true
 ---
-具有同样标签think的文章集合页面
+
+随想

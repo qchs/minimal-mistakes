@@ -1,8 +1,8 @@
-﻿---
+---
 permalink: /novel/
 layout: home
+
 author_profile: true
 ---
-novel
 
-
+小说
