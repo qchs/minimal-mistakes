@@ -3,7 +3,7 @@
 main: 
   - 
     title: "文章分类"
-    url: /about2/index.html/
+    url: /about/
   - 
     title: "随笔"
     url: /think/
