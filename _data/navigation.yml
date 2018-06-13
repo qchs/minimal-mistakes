@@ -1,20 +1,18 @@
-﻿# main links
-
+﻿--- 
 main: 
   - 
-    title: "文章分类"
+    title: 文章分类
     url: /about/
   - 
-    title: "随笔"
+    title: 随笔
     url: /think/
-    
-   - 
-    title: "小说"
+  - 
+    title: 小说
     url: /novel/
-
-   - 
-    title: "技术"
+  - 
+    title: 技术
     url: /tech/
+
 
   # - title: "Sample Collections"
   #   url: "https://mmistakes.github.io/minimal-mistakes/about/"
