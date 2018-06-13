@@ -3,7 +3,7 @@
 main: 
   - 
     title: "文章分类"
-    url: "https://qidaixuetian.com/about"
+    url: /about/
   - 
     title: "随笔"
     url: /think/
