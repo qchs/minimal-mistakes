@@ -1,5 +1,5 @@
 ---
-permalink: /分类/
+permalink: /all/
 layout: tags
 
 author_profile: true

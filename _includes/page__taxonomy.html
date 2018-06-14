@@ -1,5 +1,12 @@
 ﻿{% if site.tag_archive.type and page.tags[0]=='随笔' %}
   {% include tag-think.html %}
+{% elsif site.tag_archive.type and page.tags[0]=='小说' %}
+  {% include tag-novel.html %}
+{% else %}
+{% elsif site.tag_archive.type and page.tags[0]=='技术' %}
+  {% include tag-tech.html %}
+{% else %}
+
 {% endif %}
 
 {% if site.category_archive.type and page.categories[0] %}
