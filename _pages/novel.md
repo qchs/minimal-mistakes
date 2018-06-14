@@ -6,4 +6,4 @@ entries_layout: # list (default), grid
 author_profile: true
 ---
 
-小说
+小说合集

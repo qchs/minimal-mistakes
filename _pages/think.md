@@ -6,4 +6,4 @@ entries_layout: # list (default), grid
 author_profile: true
 ---
 
-随想
+随笔文章合集
