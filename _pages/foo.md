@@ -1,7 +1,7 @@
 ---
 permalink: /categories/foo
 layout: category
-
+taxonomy: foo
 author_profile: true	
 ---
 

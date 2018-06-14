@@ -1,7 +1,8 @@
 ---
+layout: tag
 permalink: /think/
-layout: tagthink
-
+taxonomy: think # tag name
+entries_layout: # list (default), grid
 author_profile: true
 ---
 

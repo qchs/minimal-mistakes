@@ -1,7 +1,8 @@
 ---
+layout: tag
 permalink: /novel/
-layout: home
-
+taxonomy: novel # tag name
+entries_layout: # list (default), grid
 author_profile: true
 ---
 
