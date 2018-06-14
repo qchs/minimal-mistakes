@@ -1,0 +1,6 @@
+Alt+shift+D
+Ctrl+e 居中
+CTRL+alt+v 无格式粘贴
+
+
+
