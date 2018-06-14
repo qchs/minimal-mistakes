@@ -1,7 +1,8 @@
 ---
 layout: tag
-permalink: /think/
-taxonomy: 随笔 # tag name
+permalink: /随笔/
+taxonomy: think # tag name
+tagzhong: 随笔
 entries_layout: # list (default), grid
 author_profile: true
 ---
