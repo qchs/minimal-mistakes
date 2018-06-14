@@ -1,6 +1,6 @@
 ---
 layout: tag
-permalink: /novel/
+permalink: /tags/novel/
 taxonomy: novel # tag name
 entries_layout: # list (default), grid
 author_profile: true

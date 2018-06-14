@@ -12,9 +12,7 @@ main:
   - 
     title: 技术
     url: /tech/
-  - 
-    title: 类别foo
-    url: /categories/foo
+
 
   # - title: "Sample Collections"
   #   url: "https://mmistakes.github.io/minimal-mistakes/about/"
