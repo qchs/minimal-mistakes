@@ -1,6 +1,6 @@
 ---
 layout: tag
-permalink: /tags/think/
+permalink: /think/
 taxonomy: think # tag name
 entries_layout: # list (default), grid
 author_profile: true

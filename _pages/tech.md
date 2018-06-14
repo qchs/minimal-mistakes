@@ -1,6 +1,6 @@
 ---
 layout: tag
-permalink: /tags/tech/
+permalink: /tech/
 taxonomy: tech # tag name
 entries_layout: # list (default), grid
 author_profile: true
