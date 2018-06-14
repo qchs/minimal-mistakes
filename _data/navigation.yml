@@ -2,16 +2,16 @@
 main: 
   - 
     title: 文章分类
-    url: /cates/
+    url: /分类/
   - 
     title: 随笔
     url: /随笔/
   - 
     title: 小说
-    url: /novel/
+    url: /小说/
   - 
     title: 技术
-    url: /tech/
+    url: /技术/
 
 
   # - title: "Sample Collections"

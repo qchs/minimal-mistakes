@@ -1,8 +1,8 @@
 ---
-permalink: /cates/
+permalink: /分类/
 layout: tags
 
 author_profile: true
 ---
 
-所有文章分类
+所有文章分类集合
