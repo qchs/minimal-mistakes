@@ -1,6 +1,6 @@
 ---
 layout: tag
-permalink: /随笔/
+permalink: /think/
 taxonomy: 随笔 # tag name
 
 entries_layout: # list (default), grid
