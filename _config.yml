@@ -104,7 +104,7 @@ author:
   name             : "期待雪天"
   avatar           : "/assets/images/0.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "记忆不可靠，要留有坚硬的记录。"
-  location         : "Earth"
+  location         : "微信公众号：期待雪天"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
