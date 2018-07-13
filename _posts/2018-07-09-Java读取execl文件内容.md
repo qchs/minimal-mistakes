@@ -19,3 +19,26 @@ typora-copy-images-to: ..\assets\images
 |                                                              |                                              |
 |                                                              |                                              |
 
+~~~java
+try {
+            FileInputStream file = new FileInputStream(filePath);
+            XSSFWorkbook sheets = new XSSFWorkbook(file);
+            int numberOfSheets = sheets.getNumberOfSheets();
+            System.out.println(numberOfSheets);
+            // XSSFSheet sheet=sheets.getSheetAt(0);
+            for (int i = 0; i < numberOfSheets; i++) {
+                XSSFSheet sheet = sheets.getSheetAt(numberOfSheets);
+                System.out.println("读了第"+i+"张sheet");
+
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+~~~
+
+| 问题                                   | 原因                            | 解决方案   |
+| -------------------------------------- | ------------------------------- | ---------- |
+| Sheet index (2) is out of range (0..1) | for循环里没有用i来迭代，而是num | 将num改成i |
+|                                        |                                 |            |
+|                                        |                                 |            |
+
