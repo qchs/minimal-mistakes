@@ -2,7 +2,7 @@
 title:  "Java读取execl文件内容（未完更新中）"
 toc: true
 search: false
-permalink: /tech/java-execl
+permalink: /tech/java-time1
 tag: 技术
 excerpt: "时间统计第一步"
 last_modified_at: 2018-07-08T08:06:00-05:00
