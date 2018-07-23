@@ -56,7 +56,7 @@ ctrl+t表格
 
 
 
-如果bulid失败，是里面引用的链接出错。
+如果bulid失败，是里面引用的链接post_url出错。
 
 > The tag `2018` on line 5 in `_posts/2018-07-14-java个人时间统计.md` is not a recognized Liquid tag. 
 
